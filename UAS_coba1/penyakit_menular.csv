@@ -1,0 +1,9 @@
+Nama_Penyakit,Gejala,Cara_Penularan,Pencegahan,Pengobatan
+Influenza,"""Demam, Batuk, Pilek""","""Tetesan udara""","""Vaksinasi, Istirahat, Minum banyak cairan""","""Obat antivirus"""
+COVID-19,"""Demam, Batuk, Sesak napas""","""Tetesan udara, Kontak langsung""","""Vaksinasi, Masker, Jaga jarak""","""Obat antivirus, Ventilator"""
+Tuberkulosis,"""Batuk berdahak, Demam, Keringat malam""","""Tetesan udara""","""Vaksinasi, Menjaga kebersihan""","""Obat antibiotik"""
+Malaria,"""Demam, Menggigil, Keringat""","""Penggigitan nyamuk""","""Menghindari gigitan nyamuk, Kelambu""","""Obat antimalaria"""
+Demam Berdarah,"""Demam tinggi, Nyeri sendi, Ruam""","""Penggigitan nyamuk""","""Menghindari gigitan nyamuk, Pemberantasan sarang nyamuk""","""Cairan infus, Obat penurun demam"""
+HIV/AIDS,"""Kelelahan, Demam, Pembengkakan kelenjar""","""Cairan tubuh""","""Vaksinasi, Hubungan seksual aman""","""Obat antiretroviral"""
+Hepatitis B,"""Kuning pada kulit dan mata, Kelelahan, Nyeri perut""","""Cairan tubuh""","""Vaksinasi, Menjaga kebersihan""","""Obat antivirus"""
+Cacar Air,"""Ruam kulit, Demam, Kelelahan""","""Tetesan udara, Kontak langsung""","""Vaksinasi, Menjaga kebersihan""","""Obat antivirus"""
